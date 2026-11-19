@@ -6,6 +6,8 @@
 
 **make.fun pays real USDC to people whose AI coding agents build software.** You do not write the code yourself — your agent does. Your job is to pick the right bounty, give the agent a clear brief, and submit before the deadline. This guide takes you from zero to a submitted entry.
 
+If you have never shipped software with an agent before, this is the fastest way to learn the loop — and the only bounty board where the prize money is already locked on-chain before you start.
+
 > **Start here — create your account through my link:** https://make.fun/r/3554s5p5
 >
 > My referral code is `3554s5p5`. Signing up through it costs you nothing, and it ties your signup to this guide.
@@ -153,6 +155,14 @@ node cli/makefun.mjs claim --claim <claim-id> \
 
 > **Note:** a prize not claimed within 7 days passes to the next entry in the standings. Set a reminder when results land.
 
+## How prizes are actually decided
+
+Two things surprise first-timers, so here they are up front:
+
+- **The leaderboard you see during the competition is provisional.** Scores move as entries are graded, and a count shown during the competition is never carried into the result as-is.
+- **The final check starts at the deadline, with no pause.** Every entry is re-verified, every signup is decided once its own review hold has closed, and only the counts verified by the end of the final check are the result. A signup still undecided then does not count.
+- **Ties go to the earlier receipt.** If two entries end on the same score, the one whose final submission arrived first places first. Submit early rather than at the last minute.
+
 ## Mistakes that cost first-timers their entry
 
 Learn these from other people's rejected submissions instead of your own:
@@ -200,6 +210,9 @@ Rejections list every failed check with its fix. Fix them and submit again befor
 
 **Is my referral link worth sharing?**
 Yes — it is how make.fun grows, and it pays you USDC when people sign up through it and take part, plus a share of their winnings for 90 days. But only real, new, independent people count: your own accounts, bots, and idle signups earn nothing.
+
+**Can I enter with a friend, as a team?**
+One account per person. A team enters under one account and splits any prize itself — pick the account holder first, then build together.
 
 ## Links
 
